@@ -32,7 +32,7 @@
 | Projects | 2–4 cards with role, outcome and links; honest descriptions | Planned |
 | GitHub profile | Link to own profile | https://github.com/mishkhurshid |
 | LinkedIn profile | Link to own profile, no guessed URL | https://www.linkedin.com/in/mishal-khurshid-2b61a4277/ (user-provided; link functionality not independently checked) |
-| Résumé | Downloadable/readable PDF or accessible page, no invented credentials | **Resume supplied and read (one-page PDF), public upload pending approval; do not publish contact details without confirmation** |
+| Résumé | Downloadable/readable PDF or accessible page, no invented credentials | **Resume supplied and read (one-page PDF), contact details removed in redacted PDF; GitHub upload pending (binary upload not supported by connected tool)** |
 | Project repository 1 — STAR (T-shirt) | Repository and, when working, site | https://github.com/mishkhurshid/is-117-brand-studio / https://mishkhurshid.github.io/is-117-brand-studio/ |
 | Project repository 2 — Tastee Cafe (group business) | Repository and research documentation site | https://github.com/mishkhurshid/is117-group-business / https://mishkhurshid.github.io/is117-group-business/ |
 | Project repository 3 — Portfolio (this project) | Own GitHub repository and future deployed site | https://github.com/mishkhurshid/is117-portfolio (created; live site not yet deployed) |
@@ -62,7 +62,7 @@ For each incoming issue: record **implement / investigate / defer / decline** wi
 
 ## Immediate open work
 - Publish a documentation or portfolio website when ready and record its actual deployed URL.
-- Verify LinkedIn link; review résumé privacy and formatting before deciding whether to upload its PDF publicly.
+- Verify LinkedIn link; upload the redacted résumé PDF to this repository and verify its public link.
 - Request actual peer feedback and document decision, linked revision, verification and reviewer retry.
 - Build/deploy the portfolio in a later milestone, not required for Plan.
 - Verify AI-assisted text and project claims against originals.
